@@ -1,4 +1,3 @@
-# everlytics-data-engineering-assessment
 # Everlytics Data Engineering Assessment
 
 ## Overview
