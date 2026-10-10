@@ -1,0 +1,3 @@
+I stored raw files in minio bucket names 'test' and the prefixes is test/mohammedhyder/raw/customers and test/mohammedhyder/raw/orders.
+
+After running the DAG, the raw files remain intact(no change to original/source files)

@@ -1,0 +1,3 @@
+I uploaded the new files (customer_02.csv and Orders_02.csv) in MinIO bucket named 'test' in the path prefix locations: test/mohammedhyder/raw/customers/ | test/mohammedhyder/raw/Orders/
+
+The path has an existing files, the DAG will ignore the already processed files and tracker notes down every Failed and processed files and DAG run only considers the new files which are not processed.

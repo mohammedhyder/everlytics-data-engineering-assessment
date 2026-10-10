@@ -1,0 +1,13 @@
+I deliberately altering the input valid data to invalid data input, The Airflow DAG run, gave appropriate failures, I later tested with valid data inputs and gave me accurate results as per the input file data.
+
+TASK 3: Data Quality Checks Implemented and Tested
+1. Check for NULL or missing mandatory fields
+2. Check for duplicate customer IDs
+3. Check for duplicate order IDs
+4. Check that quantity is greater than zero
+5. Check that unit price is not negative
+6. Check for missing customer and order dates
+7. Check referential integrity between orders and customers
+8. Check that final target tables contain records
+9. Check that total_amount = quantity × unit_price
+10. Raise an error if any validation check fails

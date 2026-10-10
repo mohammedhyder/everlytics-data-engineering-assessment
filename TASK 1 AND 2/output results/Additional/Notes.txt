@@ -1,0 +1,7 @@
+NOTES:
+
+1. Fact-table grain
+Each row in fact_order represents one order. It stores the customer, order date, quantity, unit price, and total amount.
+
+2. Surrogate-key decision
+I use customer_key as a surrogate key to uniquely identify each customer in dim_customer. The original customer_id is the business key received from the source data.

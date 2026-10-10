@@ -1,0 +1,3 @@
+order_id,customer_id,order_date,quantity,unit_price
+T6O001,T6C001,2026-10-09,4,300
+T6O002,T6C002,2026-10-09,2,500

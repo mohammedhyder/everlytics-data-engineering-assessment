@@ -1,0 +1,21 @@
+customer_id,customer_name,city,email,created_date
+T6C003,Customer 01,Hyderabad,customer01@example.com,2026-10-01
+T6C004,Customer 02,Warangal,customer02@example.com,2026-10-02
+T6C005,Customer 03,Karimnagar,customer03@example.com,2026-10-03
+T6C006,Customer 04,Nizamabad,customer04@example.com,2026-10-04
+T6C007,Customer 05,Khammam,customer05@example.com,2026-10-05
+T6C008,Customer 06,Hyderabad,customer06@example.com,2026-10-06
+T6C009,Customer 07,Warangal,customer07@example.com,2026-10-07
+T6C010,Customer 08,Karimnagar,customer08@example.com,2026-10-08
+T6C011,Customer 09,Nizamabad,customer09@example.com,2026-10-09
+T6C012,Customer 10,Khammam,customer10@example.com,2026-10-01
+T6C013,Customer 11,Hyderabad,customer11@example.com,2026-10-02
+T6C014,Customer 12,Warangal,customer12@example.com,2026-10-03
+T6C015,Customer 13,Karimnagar,customer13@example.com,2026-10-04
+T6C016,Customer 14,Nizamabad,customer14@example.com,2026-10-05
+T6C017,Customer 15,Khammam,customer15@example.com,2026-10-06
+T6C018,Customer 16,Hyderabad,customer16@example.com,2026-10-07
+T6C019,Customer 17,Warangal,customer17@example.com,2026-10-08
+T6C020,Customer 18,Karimnagar,customer18@example.com,2026-10-09
+T6C021,Customer 19,Nizamabad,customer19@example.com,2026-10-01
+T6C022,Customer 20,Khammam,customer20@example.com,2026-10-02
